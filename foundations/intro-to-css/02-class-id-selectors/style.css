@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.normal-class, .cool-class {
+    background-color: #E95D5D;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.cool-class {
+    font-size: 24px;
+}
+
+#first-ID {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#second-ID {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
